@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-16T03:36:55.888Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="CjKOjKaDnMu9u_zeOxY2" version="14.3.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-02-16T03:37:48.783Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="ZIQh9XiZS-KBFYF9ZuE5" version="14.3.2" type="github" pages="2">
   <diagram id="kZrhna89fZPYIoWzwBHe" name="Problem1">
     <mxGraphModel dx="1082" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -960,6 +960,16 @@
         <UserObject label="1..N" lucidchartObjectId="Iyccckhlz1xF" id="L0w323EsWncW0rjvEYu0-8">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=13;fontColor=#000000;spacing=3.8;strokeOpacity=0;fillOpacity=0;fillColor=#ffffff;strokeWidth=1.5;" vertex="1" parent="WrZw0BEmucw2PlkLy2Wm-1">
             <mxGeometry x="308" y="1360" width="81" height="64" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="1..1" lucidchartObjectId="Iyccckhlz1xF" id="V3MKY72woSolNfK5WGhL-0">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=13;fontColor=#000000;spacing=3.8;strokeOpacity=0;fillOpacity=0;fillColor=#ffffff;strokeWidth=1.5;" vertex="1" parent="WrZw0BEmucw2PlkLy2Wm-1">
+            <mxGeometry x="420" y="1360" width="81" height="64" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="0..N" lucidchartObjectId="Iyccckhlz1xF" id="V3MKY72woSolNfK5WGhL-1">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=13;fontColor=#000000;spacing=3.8;strokeOpacity=0;fillOpacity=0;fillColor=#ffffff;strokeWidth=1.5;" vertex="1" parent="WrZw0BEmucw2PlkLy2Wm-1">
+            <mxGeometry x="521" y="1470" width="81" height="64" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
